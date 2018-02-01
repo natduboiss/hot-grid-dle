@@ -77,5 +77,33 @@ figcaption {
     top: 6.5rem;
     left: 19.5rem;
   }
+}
 
+@media only screen and (min-width: 60em) {
+
+  .fig1 {
+    top: 7rem;
+  }
+
+  .fig2 {
+    top: 7rem;
+    left: 20.5rem;
+  }
+
+  .fig3 {
+    position: absolute;
+    background-color: rgba(0, 0, 0, .5);
+    color: #fff;
+    border-radius: 5px;
+    top: 7rem;
+    left: 40.5rem;
+    padding: 1rem;
+  }
+}
+
+@media only screen and (min-width: 90em) {
+
+  .fig1 {
+    top: 10rem;
+  }
 }
