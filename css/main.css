@@ -59,10 +59,23 @@ figcaption {
 @media only screen and (min-width: 25em) {
 
   .fig1 {
-    top: 10rem;
+    top: 10.5rem;
   }
 
   .fig2 {
     top: 27rem;
   }
+}
+
+@media only screen and (min-width: 38em) {
+
+  .fig1 {
+    top: 6.5rem;
+  }
+
+  .fig2 {
+    top: 6.5rem;
+    left: 19.5rem;
+  }
+
 }
