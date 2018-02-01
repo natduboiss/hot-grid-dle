@@ -65,6 +65,7 @@ figcaption {
   .fig2 {
     top: 27rem;
   }
+
 }
 
 @media only screen and (min-width: 38em) {
@@ -77,6 +78,7 @@ figcaption {
     top: 6.5rem;
     left: 19.5rem;
   }
+
 }
 
 @media only screen and (min-width: 60em) {
@@ -99,6 +101,7 @@ figcaption {
     left: 40.5rem;
     padding: 1rem;
   }
+
 }
 
 @media only screen and (min-width: 90em) {
@@ -116,4 +119,5 @@ figcaption {
     top: 13rem;
     left: 61rem;
   }
+
 }
